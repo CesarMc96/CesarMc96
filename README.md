@@ -27,7 +27,7 @@
 ### 📚 Certificaciones Relevantes
 
 - 🏅 **WSO2 Certified Micro Integrator Practitioner - V4**  
-  *WSO2, 2025* [🔗 Verificación](https://certification.wso2.com)
+  *WSO2, 2025* [🔗 Verificación](https://certification.wso2.com/certificate/cid-03584602)
 - 📜 *Become a RESTful API Developer* – LinkedIn Learning, 2025  
 - ⚙️ *DevOps Esencial* – LinkedIn Learning, 2025  
 - 📐 *Arquitectura de Software y Análisis de Proyectos* – PMI, 2025  
