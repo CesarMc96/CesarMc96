@@ -31,7 +31,6 @@
 - ⚙️ *DevOps Esencial* – LinkedIn Learning, 2025  
 - 📐 *Arquitectura de Software y Análisis de Proyectos* – PMI, 2025  
 - ✅ *Scrum Avanzado & Roles* – PMI, 2025  
-- ☁️ *Fundamentos de Sguridad Cloud (GRC)* – Microsoft & LinkedIn  
 
 🔗 Más en [mi CV](https://www.linkedin.com/in/cesaralejandromontanocortes)
 
