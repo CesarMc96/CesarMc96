@@ -10,6 +10,7 @@
 
 ![Java](https://img.shields.io/badge/Java-17-orange?logo=java)
 ![WSO2](https://img.shields.io/badge/WSO2-Micro_Integrator-blue?logo=wso2)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php)  
 ![SQL](https://img.shields.io/badge/SQL-database-green?logo=databricks)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git)
 ![Scrum](https://img.shields.io/badge/Scrum-Agile-blueviolet)
